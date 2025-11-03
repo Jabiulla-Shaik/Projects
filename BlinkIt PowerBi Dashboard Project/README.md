@@ -64,6 +64,7 @@ It highlights key sales drivers, underperforming areas, and growth opportunities
 ---
 
 ## 🧾 Author
-**KAKUMANU UDAY SHANKAR**
-📧 kudayshakar30@gmail.com  
+**SHAIK BUGGANAPALLI JABIULLA**
+📧 jabiulla.shaik2003@gmail.com  
 💻 *Data Analyst | Power BI Developer | SQL Enthusiast*  
+
